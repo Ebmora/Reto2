@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         
         primarySwatch: Colors.purple,
       ),
-      home: const MyHomePage(title: 'Shopping Cart'),
+      home: const MyHomePage(title: 'Shopping Max'),
       debugShowCheckedModeBanner: false,
     );
   }
